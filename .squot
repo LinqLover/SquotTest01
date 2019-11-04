@@ -1,1 +1,3 @@
-OrderedDictionary { }
+OrderedDictionary {
+	'CTSquotTest01.package' : #SquotCypressCodeSerializer
+}

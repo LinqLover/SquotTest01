@@ -1,0 +1,14 @@
+{
+	"category" : "CTSquotTest01",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CTSquotTest01",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
